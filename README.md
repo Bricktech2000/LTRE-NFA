@@ -1,3 +1,11 @@
+# LTRE NFA
+
+_Frozen version of LTRE on the NFA engine_
+
+This is an archive of LTRE before abandoning the NFA engine in favor of Brzozowski derivatives.
+
+---
+
 # LTRE
 
 _Finite automaton regular expression engine_
